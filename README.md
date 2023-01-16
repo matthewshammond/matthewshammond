@@ -8,8 +8,8 @@ I am [Matt Hammond](https://matthewshammond.com), a prior military professional 
 
 # 🧑‍💻 My open source repos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=matthewshammond&repo=AUG-Maps&theme=nord)](https://github.com/matthewshammond/AUG-Maps)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=matthewshammond&repo=NASPi&theme=nord)](https://github.com/matthewshammond/NASPi)
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=matthewshammond&repo=AUG-Maps&theme=nord)](https://github.com/matthewshammond/AUG-Maps)
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=matthewshammond&repo=NASPi&theme=nord)](https://github.com/matthewshammond/NASPi)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=matthewshammond&repo=website&theme=nord)](https://github.com/matthewshammond/website)
 
 # 📊 My Stats
