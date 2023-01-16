@@ -14,9 +14,9 @@ I am [Matt Hammond](https://matthewshammond.com), a prior military professional 
 
 # 📊 My Stats
 
-[![Matt Hammond's github stats](https://github-readme-stats.vercel.app/api?username=matthewshammond6&show_icons=true&count_private=true&theme=nord&hide=stars)](https://github.com/matthewshammond)
+[![Matt Hammond's github stats](https://github-readme-stats.vercel.app/api?username=matthewshammond&show_icons=true&theme=nord&hide=stars)](https://github.com/matthewshammond)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=matthewshammond&theme=nord&count_private=true&theme=nord)](https://github.com/matthewshammond)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=matthewshammond&theme=nord)](https://github.com/matthewshammond)
 
 ### 📫 How to reach me:
   - Website   : <https://matthewshammond.com>
