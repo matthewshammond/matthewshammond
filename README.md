@@ -19,7 +19,7 @@ I am [Matt Hammond](https://matthammond.dev), a prior military professional with
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=matthewshammond&theme=nord)](https://github.com/matthewshammond)
 
 ### 📫 How to reach me:
-  - Website   : <https://matthhammond.dev>
+  - Website   : <https://matthammond.dev>
   - LinkedIn  : <https://www.linkedin.com/in/matthewshammond>
   
 <!--
