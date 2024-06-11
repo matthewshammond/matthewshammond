@@ -11,6 +11,7 @@ I am [Matt Hammond](https://matthammond.com), a prior military professional with
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=matthewshammond&repo=AUG-Maps&theme=nord)](https://github.com/matthewshammond/AUG-Maps)
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=matthewshammond&repo=NASPi&theme=nord)](https://github.com/matthewshammond/NASPi)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=matthewshammond&repo=website&theme=nord)](https://github.com/matthewshammond/website)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=matthewshammond&repo=IFP&theme=nord)](https://github.com/matthewshammond/IFP)
 
 # 📊 My Stats
 
